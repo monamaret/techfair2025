@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "<server-name>": {
+      "command": "<command>",
+      "args": [
+        "<arg1>",
+        "<arg2>",
+        "..."
+      ],
+      "env": {
+        "<ENV_VAR>": "<value>",
+        "..."
+      }
+    }
+  }
+}
